@@ -2,10 +2,10 @@ body {
 }
 
 img {
-    width: 30%;
-    height: 10%;
+    width: 20%;
+    height: 20%;
     margin: calc(10/6);
-    object-fit: fill;
+    object-fit: cover;
 }
 
 nav {

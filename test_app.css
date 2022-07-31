@@ -1,5 +1,5 @@
 
-/*YOUR CODE GOES IN HERE*/
+/* Text Element Properties*/
 body {
     text-transform: uppercase;
     text-align: center;
@@ -11,6 +11,7 @@ body {
     
 }
 
+/* Selection*/
 .square:nth-of-type(n) {
     color: black;
 }

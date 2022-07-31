@@ -6,6 +6,7 @@ img {
     width: 30%;
     height: 10%;
     margin: calc(10/6);
+    object-fit: fill;
 }
 
 nav {

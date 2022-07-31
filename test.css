@@ -1,0 +1,20 @@
+
+/*YOUR CODE GOES IN HERE*/
+body {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: monoscope;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: underline wavy plum;
+    
+}
+
+.square:nth-of-type(n) {
+    color: black;
+}
+
+.square:nth-of-type(2n) {
+    color: red;
+}

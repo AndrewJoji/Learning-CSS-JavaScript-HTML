@@ -1,3 +1,17 @@
+body {
+    margin: ;
+}
+
 img {
-    width: 2em;
+    object-fit: cover;
+    width: 30%;
+    height: 10%;
+    margin: calc(10/6);
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10/6);
 }

@@ -3,7 +3,6 @@ body {
 }
 
 img {
-    object-fit: cover;
     width: 30%;
     height: 10%;
     margin: calc(10/6);

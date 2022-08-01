@@ -2,8 +2,8 @@ body {
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 30%;
+    height:30%;
     margin: calc(10/6);
     object-fit: cover;
 }
